@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5076b8dd-4066-4689-a3fb-e88883663dc5": {
+      "ProjectGuid": "5076b8dd-4066-4689-a3fb-e88883663dc5",
+      "DisplayName": "AsyncSocktes",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "d0087fd4-c1f7-469c-9480-14ca71e894ed": {
+      "ProjectGuid": "d0087fd4-c1f7-469c-9480-14ca71e894ed",
+      "DisplayName": "Client",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

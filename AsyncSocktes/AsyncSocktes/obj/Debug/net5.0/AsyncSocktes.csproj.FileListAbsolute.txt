@@ -1,0 +1,16 @@
+C:\Users\guilh\Documents\Exercise\AsyncSocktes\AsyncSocktes\bin\Debug\net5.0\AsyncSocktes.exe
+C:\Users\guilh\Documents\Exercise\AsyncSocktes\AsyncSocktes\bin\Debug\net5.0\AsyncSocktes.deps.json
+C:\Users\guilh\Documents\Exercise\AsyncSocktes\AsyncSocktes\bin\Debug\net5.0\AsyncSocktes.runtimeconfig.json
+C:\Users\guilh\Documents\Exercise\AsyncSocktes\AsyncSocktes\bin\Debug\net5.0\AsyncSocktes.runtimeconfig.dev.json
+C:\Users\guilh\Documents\Exercise\AsyncSocktes\AsyncSocktes\bin\Debug\net5.0\AsyncSocktes.dll
+C:\Users\guilh\Documents\Exercise\AsyncSocktes\AsyncSocktes\bin\Debug\net5.0\ref\AsyncSocktes.dll
+C:\Users\guilh\Documents\Exercise\AsyncSocktes\AsyncSocktes\bin\Debug\net5.0\AsyncSocktes.pdb
+C:\Users\guilh\Documents\Exercise\AsyncSocktes\AsyncSocktes\obj\Debug\net5.0\AsyncSocktes.csproj.AssemblyReference.cache
+C:\Users\guilh\Documents\Exercise\AsyncSocktes\AsyncSocktes\obj\Debug\net5.0\AsyncSocktes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Documents\Exercise\AsyncSocktes\AsyncSocktes\obj\Debug\net5.0\AsyncSocktes.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\Exercise\AsyncSocktes\AsyncSocktes\obj\Debug\net5.0\AsyncSocktes.AssemblyInfo.cs
+C:\Users\guilh\Documents\Exercise\AsyncSocktes\AsyncSocktes\obj\Debug\net5.0\AsyncSocktes.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Exercise\AsyncSocktes\AsyncSocktes\obj\Debug\net5.0\AsyncSocktes.dll
+C:\Users\guilh\Documents\Exercise\AsyncSocktes\AsyncSocktes\obj\Debug\net5.0\ref\AsyncSocktes.dll
+C:\Users\guilh\Documents\Exercise\AsyncSocktes\AsyncSocktes\obj\Debug\net5.0\AsyncSocktes.pdb
+C:\Users\guilh\Documents\Exercise\AsyncSocktes\AsyncSocktes\obj\Debug\net5.0\AsyncSocktes.genruntimeconfig.cache
